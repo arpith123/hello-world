@@ -1,2 +1,6 @@
 # hello-world
-sample repository
+
+
+Hey Coders,
+
+Hope y'all are doing well!!
